@@ -1,0 +1,8 @@
+__pycache__/
+BLOOM-fine-tuning/__pycache__/
+BLOOM-fine-tuning/output/*
+BLOOM-fine-tuning/dataset/*
+transformers-bloom-inference/__pycache__/
+transformers-bloom-inference/assets/
+transformers-bloom-inference/static/
+transformers-bloom-inference/templates/
